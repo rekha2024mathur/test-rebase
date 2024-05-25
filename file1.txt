@@ -4,3 +4,4 @@ This is extra test in file 1.
 New line added.
 
 Added one more line test on line 6.
+Added one more line test on line 7.
