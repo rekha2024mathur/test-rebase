@@ -1,3 +1,5 @@
 Added new file named file2.txt.
 
 This is dummy text.
+
+Added one line of more text.
