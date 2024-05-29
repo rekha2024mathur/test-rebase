@@ -4,3 +4,4 @@ This is extra test in file 1.
 New line added.
 
 This is for search testing via the command line.
+This line added from remote. 
