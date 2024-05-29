@@ -1,1 +1,2 @@
 All content deleted
+This line added on rebase branch from remote
