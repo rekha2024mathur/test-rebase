@@ -1,8 +1,1 @@
-This is file 1.
-This is extra test in file 1.
-
-New line added.
-
-This is for search testing via the command line.
-This line added from remote. 
-Added one more line at remote
+All content deleted
