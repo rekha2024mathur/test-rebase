@@ -1,5 +1,1 @@
-This is file 1.
-This is extra test in file 1.
-
-New line added.
-Added from remote renu 1
+All content deleted
